@@ -1,0 +1,6 @@
+[
+  "test_pytest.py::test_addition_fail",
+  "test_pytest.py::test_addition_pass",
+  "test_pytest.py::test_always_fails",
+  "test_pytest.py::test_always_passes"
+]

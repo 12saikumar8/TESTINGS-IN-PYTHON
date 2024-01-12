@@ -1,0 +1,4 @@
+{
+  "test_pytest.py::test_addition_fail": true,
+  "test_pytest.py::test_always_fails": true
+}
